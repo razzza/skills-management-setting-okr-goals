@@ -16,9 +16,26 @@ Use it when you want to turn strategy into execution with a small set of sharp, 
 npx skills add razzza/skills-management-setting-okr-goals
 ```
 
-## Why this skill is great
+## Why this skill is the best choice for OKRs
 
-- **Outcome‑first, not task‑first**: pushes Objectives and Key Results that describe real change in the business or team, with initiatives explicitly separated.
-- **Ready for managers and ICs**: includes specific patterns for business, people, and personal development goals, plus how to cascade from team KRs.
-- **Defensive by design**: calls out failure patterns (task‑based KRs, sandbagging, misaligned goals, orphan work) and gives concrete fixes.
-- **Production‑ready structure**: comes with references, examples, and templates you can plug directly into planning docs, goal systems, or 1:1s.
+Most OKR guides give you theory. This skill gives you **a complete, battle-tested system** that prevents the common failures that derail OKR programs:
+
+### 🎯 **Outcome-first architecture**
+Unlike frameworks that let tasks masquerade as Key Results, this skill enforces **outcomes over activities**. Objectives describe real change; KRs are measurable evidence; initiatives stay separate. No more "launch feature X" masquerading as a KR.
+
+### 🔗 **Complete cascade system**
+Most OKR skills stop at team-level. This one **extends all the way to individual goals** with explicit lineage tracking. Every individual goal traces to a team KR—no orphan work, no misalignment surprises in week 6. Includes manager reflection patterns so goals get sharpened, not rubber-stamped.
+
+### 🛡️ **Anti-failure by design**
+Built-in validation tests catch weak OKRs before they ship: controllability checks, counter-metrics to prevent gaming, clarity tests so two people score progress the same way. Plus a quality rubric that shows you exactly what "Level 4" looks like.
+
+### 📊 **FROM → TO metrics everywhere**
+Every goal includes baseline → target metrics. No vague "improve quality"—instead, "critical defects per KLOC FROM 0.45 → TO 0.20." Makes progress trackable weekly without debate.
+
+### 🎓 **Production-ready templates**
+Not just concepts—actual templates you can copy into planning docs, goal systems, or 1:1 conversations. Includes discovery OKRs for uncertainty-heavy work, manager reflection examples, and a full individual goal example (Engineering Manager) showing all three dimensions: business, people, personal development.
+
+### ⚡ **Smart trigger logic**
+The agent knows when OKRs are the right tool (quarterly/annual planning, goal setting, alignment) and when they're not (operational SLAs → use KPIs; research → use Discovery OKRs; past performance → use check-ins). Prevents OKR fatigue from overuse.
+
+**Bottom line**: If you want OKRs that actually drive execution instead of becoming another planning ritual, this is the skill to use.
