@@ -1,6 +1,12 @@
 ---
 name: setting-objectives-okrs
-description: Guide teams and individuals through setting Objectives, Key Results (OKRs), and annual goals that translate strategy into measurable execution. Use when planning quarterly or annual cycles, setting individual or team goals, aligning on priorities, creating OKRs, writing SMART goals with FROM-TO metrics, reviewing goal cascades, or when the user asks about objectives, key results, goal setting, or planning frameworks. Do not use for purely operational SLA-driven work (use KPIs instead), uncertainty-heavy research (use Discovery OKRs), or reviewing past performance (use a check-in/feedback skill).
+description: |-
+  Guide teams and individuals through setting Objectives, Key Results (OKRs), and annual goals that translate strategy into measurable execution. Use when planning quarterly or annual cycles, setting individual or team goals, aligning on priorities, creating OKRs, writing SMART goals with FROM-TO metrics, reviewing goal cascades, or when the user asks about objectives, key results, goal setting, or planning frameworks. Do not use for purely operational SLA-driven work (use KPIs instead), uncertainty-heavy research (use Discovery OKRs), or reviewing past performance (use a check-in/feedback skill).
+metadata:
+  author: razzza
+  version: 1.0.0
+  repository: razzza/skills-management-setting-okr-goals
+license: MIT
 ---
 
 # Setting Objectives & OKRs
